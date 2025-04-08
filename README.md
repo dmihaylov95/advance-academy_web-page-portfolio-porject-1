@@ -1,2 +1,4 @@
-# advance-academy_web-page-portfolio-porject-1
-Advance Academy // Web Development &amp; Front-end // Portfolio project #1
+Web Development &amp; Front-end
+Portfolio project #1
+
+This is an HTML & CSS web-page, built using Bootstrap and custom CSS.
